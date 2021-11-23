@@ -4,3 +4,4 @@ A Repository full of whiteboard-style questions, as well as unit tests done via 
 - [x] Palindrome
 - [x] reverseInt
 - [x] maxCharacter
+- [x] fizzbuzz
