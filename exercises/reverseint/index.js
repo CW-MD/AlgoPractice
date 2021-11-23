@@ -9,7 +9,7 @@
 //   reverseInt(-90) === -9
 
 function reverseInt(n) {
-    let stack = []
+    
     if(n <= 9 && n > 0){
         return n
     }
